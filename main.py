@@ -57,4 +57,4 @@ async def on_message(message):
                                                         dothething[str(message.server.id)]=0
                                 else:
                                         await asyncio.sleep(10)
-client.run(bot_key)
+client.run(Njc1MjQ1MTkzODkyNDYyNTky.Xj74lA.3C-YDfyOJsLY9Vj18ngR25XjRtk)
